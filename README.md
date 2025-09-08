@@ -1,4 +1,5 @@
 # Scentify — E-Commerce Website Project
+## Final Project - Web Programming CSCV 337
  
 **Scentify** is a simple e-commerce web application that sells various perfume products. The website is built using **Laravel 11** for the backend and **Flowbite** for the front-end styling.
 
